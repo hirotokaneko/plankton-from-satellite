@@ -20,8 +20,8 @@ Output data files are in the directory `data`.
   * other output data files
 
 Data visualizations are in the directory `figure`.
-  * `V317.summary.class.detection.fz.pptx`: summary of detected modules in the network.
-  * `V318.summary.community.detail.fz.pptx`: summary of the taxonomic breakdown of modules and the distribution of corresponded community types.
+  * `full.open.thinned200.frq20/V317.summary.class.detection.fz.pptx`: summary of detected modules in the network.
+  * `full.open.thinned200.frq20/V318.summary.community.detail.fz.pptx`: summary of the taxonomic breakdown of modules and the distribution of corresponded community types.
   * `full.open.thinned200.frq20/cv/V415.summary.CV.spatial0.fz.leiden.SVM.pptx`: summary of leave-one-out cross-validation results when using SVM.
   * `full.open.thinned200.frq20/cv/V415.summary.CV.spatial2000.fz.leiden.SVM.pptx`: summary of buffered cross-validation results when using SVM.
   * `full.open.thinned200.frq20/global`: visualization of the predicted community distributions (2003-2021).
