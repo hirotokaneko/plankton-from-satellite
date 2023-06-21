@@ -1,0 +1,794 @@
+	Year	Month	RowInd	ColInd	GridLat	GridLong	eukbank_unique_points	elevation	marine_biome	longhurst_code	longhurst_description	ocean	iho_name	iho_id
+G0001	2009	10	559	2254	43.374996	7.87501	['E0936']	-2457	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Western Basin	28A
+G0002	2009	10	580	2193	41.624996	2.7916667	['E0921', 'E0922']	-112	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Balearic (Iberian Sea)	28c
+G0003	2009	10	601	2313	39.874996	12.791667	['E0918']	-3603	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Tyrrhenian Sea	28e
+G0004	2009	10	630	2345	37.458332	15.458339	['E0900']	-2094	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0005	2009	10	644	2331	36.291664	14.291667	['E0890']	-586	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0006	2009	11	570	2375	42.458332	17.958338	['E0933', 'E0934']	-446	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Adriatic Sea	28g
+G0007	2009	11	573	2372	42.208332	17.708338	['E0930', 'E0931', 'E0932']	-1098	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Adriatic Sea	28g
+G0008	2009	11	601	2368	39.874996	17.37501	['E0917']	-1765	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0009	2009	11	602	2368	39.791664	17.37501	['E0915', 'E0916']	-1356	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0010	2009	11	607	2392	39.374996	19.37501	['E0914']	-911	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0011	2009	11	609	2392	39.208332	19.37501	['E0911']	-789	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0012	2009	11	618	2402	38.458332	20.208338	['E0905', 'E0906']	-3030	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0013	2009	11	629	2366	37.541664	17.208338	['E0901']	-2323	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0014	2009	11	629	2367	37.541664	17.291666	['E0902']	-2649	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Ionian Sea	28f
+G0015	2009	11	650	2331	35.791664	14.291667	['E0880']	-577	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0016	2009	11	651	2331	35.708332	14.291667	['E0878', 'E0879']	-856	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0017	2009	11	666	2338	34.458332	14.8750105	['E0870']	-348	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0018	2009	11	666	2339	34.458332	14.958339	['E0869']	-296	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0019	2009	11	667	2340	34.374996	15.041667	['E0868']	-307	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0020	2009	11	669	2325	34.208332	13.791667	['E0866']	-336	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0021	2009	11	669	2327	34.208332	13.958339	['E0867']	-338	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0022	2009	12	672	2554	33.958332	32.87501	['E0859', 'E0860', 'E0861']	-1646	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Eastern Basin	28B
+G0023	2009	9	591	2194	40.708332	2.8750103	['E0920']	-2061	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Balearic (Iberian Sea)	28c
+G0024	2009	9	592	2194	40.624996	2.8750103	['E0919']	-2054	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Balearic (Iberian Sea)	28c
+G0025	2009	9	610	2229	39.124996	5.7916665	['E0907']	-2881	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Western Basin	28A
+G0026	2009	9	610	2230	39.124996	5.87501	['E0908']	-2852	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Western Basin	28A
+G0027	2009	9	623	2207	38.041664	3.9583385	['E0903', 'E0904']	-2809	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Western Basin	28A
+G0028	2009	9	635	2183	37.041664	1.9583384	['E0897', 'E0898', 'E0899']	-2782	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Mediterranean Sea - Western Basin	28A
+G0029	2009	9	641	2081	36.541664	-6.5416617	['E0896']	-59	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	North Atlantic Ocean	23
+G0030	2009	9	641	2111	36.541664	-4.0416617	['E0895']	-642	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Alboran Sea	28b
+G0031	2009	9	641	2112	36.541664	-3.9583333	['E0894']	-690	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Alboran Sea	28b
+G0032	2009	9	647	2106	36.041664	-4.4583335	['E0885']	-1262	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Alboran Sea	28b
+G0033	2010	1	754	2577	27.124998	34.791668	['E0827', 'E0828']	-1111	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0034	2010	1	754	2578	27.124998	34.87501	['E0829']	-965	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0035	2010	1	799	2606	23.374998	37.20834	['E0819', 'E0820']	-1079	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0036	2010	1	814	2618	22.124998	38.20834	['E0809']	-814	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0037	2010	1	816	2619	21.958334	38.291668	['E0808']	-810	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0038	2010	1	858	2638	18.458334	39.87501	['E0801']	-1272	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0039	2010	1	859	2638	18.374998	39.87501	['E0798', 'E0799', 'E0800']	-1490	Coastal	REDS	Coastal - Red Sea, Persian Gulf Province	Indian	Red Sea	37
+G0040	2010	10	1184	1944	-8.708339	-17.958334	['E0692']	-3997	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0041	2010	10	1185	1945	-8.791667	-17.87499	['E0690', 'E0691']	-4078	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0042	2010	10	1331	1736	-20.958338	-35.29166	['E0539']	-4051	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0043	2010	10	1331	1737	-20.958338	-35.208332	['E0540', 'E0541', 'E0542']	-4067	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0044	2010	10	1429	4011	-29.125002	154.29167	['E0451']	-3063	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0045	2010	10	1432	4010	-29.375002	154.20836	['E0449']	-2696	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0046	2010	10	1435	4010	-29.625002	154.20836	['E0440']	-3744	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0047	2010	10	1436	4009	-29.708338	154.12502	['E0438']	-3166	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0048	2010	10	1437	4009	-29.791666	154.12502	['E0435']	-3636	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0049	2010	10	1439	4008	-29.958338	154.04167	['E0432']	-4403	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0050	2010	10	1443	4009	-30.291666	154.12502	['E0424']	-4560	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0051	2010	10	1444	4008	-30.375002	154.04167	['E0422']	-4659	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0052	2010	10	1467	3993	-32.291668	152.79167	['E0340']	-104	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0053	2010	10	1467	3997	-32.291668	153.12502	['E0342']	-2077	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0054	2010	10	1467	4001	-32.291668	153.45836	['E0343']	-4137	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0055	2010	10	1467	4003	-32.291668	153.62502	['E0345']	-4556	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0056	2010	10	1467	4006	-32.291668	153.87502	['E0344']	-4795	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0057	2010	10	1467	4012	-32.291668	154.37502	['E0341']	-5095	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0058	2010	11	1441	1640	-30.125002	-43.29166	['E0428', 'E0429']	-3831	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0059	2010	11	1442	1640	-30.208338	-43.29166	['E0426', 'E0427']	-3901	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0060	2010	11	1567	1533	-40.62501	-52.208332	['E0119']	-5491	Coastal	BRAZ	Coastal - Brazil Current Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0061	2010	11	1567	1534	-40.62501	-52.124996	['E0120']	-5486	Coastal	BRAZ	Coastal - Brazil Current Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0062	2010	11	1567	1535	-40.62501	-52.04166	['E0121']	-5659	Coastal	BRAZ	Coastal - Brazil Current Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0063	2010	12	1614	1530	-44.541668	-52.458332	['E0073']	-5889	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Atlantic	South Atlantic Ocean	32
+G0064	2010	12	1615	1534	-44.62501	-52.124996	['E0072']	-5981	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Atlantic	South Atlantic Ocean	32
+G0065	2010	12	1646	1460	-47.20834	-58.29166	['E0067']	-2791	Coastal	FKLD	Coastal - SW Atlantic Shelves Province	South Atlantic	South Atlantic Ocean	32
+G0066	2010	12	1732	1378	-54.37501	-65.125	['E0052']	-106	Coastal	FKLD	Coastal - SW Atlantic Shelves Province	South Atlantic	South Atlantic Ocean	32
+G0067	2010	2	579	2193	41.708332	2.7916667	['E0923']	88	NA	NA	NA	NA	NA	NA
+G0068	2010	3	830	2922	20.791662	63.541668	['E0806', 'E0807']	-3410	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0069	2010	3	851	2933	19.041662	64.458336	['E0805']	-3362	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0070	2010	3	857	2957	18.541662	66.458336	['E0804']	-3299	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0071	2010	3	857	2958	18.541662	66.541664	['E0802', 'E0803']	-3301	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0072	2010	3	869	2975	17.541662	67.958336	['E0797']	-3418	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0073	2010	3	904	2999	14.624997	69.958336	['E0791', 'E0792']	-3471	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0074	2010	3	905	2999	14.541661	69.958336	['E0790']	-3581	Coastal	ARAB	Coastal - NW Arabian Upwelling Province	Indian	Arabian Sea	39
+G0075	2010	4	1007	3046	6.0416617	73.87501	['E0752', 'E0753', 'E0754']	-1962	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Laccadive Sea	42
+G0076	2010	4	1024	3041	4.6249976	73.458336	['E0748', 'E0749', 'E0750']	-30	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Laccadive Sea	42
+G0077	2010	4	1077	3022	0.20833333	71.87501	['E0741']	-3883	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Arabian Sea	39
+G0078	2010	4	1079	3019	0.04166158	71.62501	['E0734', 'E0735']	-3955	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Indian Ocean	45
+G0079	2010	4	1087	3037	-0.62500256	73.12501	['E0726', 'E0727', 'E0728']	-112	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Arabian Sea	39
+G0080	2010	4	1104	3025	-2.0416667	72.12501	['E0717', 'E0718', 'E0719']	-4724	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Indian Ocean	45
+G0081	2010	4	1192	2955	-9.375003	66.291664	['E0668']	-3530	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Indian Ocean	45
+G0082	2010	4	1192	2957	-9.375003	66.458336	['E0669']	-2903	Trades	MONS	Trades - Indian Monsoon Gyres Province	Indian	Indian Ocean	45
+G0083	2010	4	1281	2874	-16.791666	59.541668	['E0605', 'E0606']	-39	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0084	2010	4	494	2112	48.791664	-3.9583333	['E0941']	-35	Coastal	NECS	Coastal - NE Atlantic Shelves Province	North Atlantic	English Channel	21
+G0085	2010	5	1233	2702	-12.791667	45.20834	['E0632', 'E0633', 'E0634']	3	NA	NA	NA	NA	NA	NA
+G0086	2010	5	1236	2723	-13.041667	46.95834	['E0623', 'E0624', 'E0625', 'E0626']	-3286	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0087	2010	5	1337	2811	-21.458338	54.291668	['E0531', 'E0532']	-4216	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0088	2010	5	1337	2812	-21.458338	54.37501	['E0527']	-4208	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0089	2010	5	1337	2841	-21.458338	56.791668	['E0530']	-4137	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0090	2010	5	1337	2842	-21.458338	56.87501	['E0528', 'E0529']	-4159	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0091	2010	5	1338	2812	-21.541666	54.37501	['E0525']	-4218	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0092	2010	5	561	2505	43.208332	28.791666	['E0935']	-192	Westerlies	MEDI	Westerlies - Mediterranean Sea, Black Sea Province	North Atlantic	Black Sea	30
+G0093	2010	6	1264	2679	-15.375003	43.291668	['E0613']	-3318	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0094	2010	6	1284	2672	-17.041666	42.70834	['E0599', 'E0600']	-25	Coastal	EAFR	Coastal - E. Africa Coastal Province	NA	NA	NA
+G0095	2010	6	1289	2666	-17.458338	42.20834	['E0598']	-1500	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0096	2010	6	1290	2666	-17.541666	42.20834	['E0596']	-1460	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0097	2010	6	1290	2667	-17.541666	42.291668	['E0595']	-1825	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0098	2010	6	1291	2666	-17.625002	42.20834	['E0594']	-1489	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0099	2010	7	1348	2640	-22.375002	40.041668	['E0521']	-3014	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Mozambique Channel	45A
+G0100	2010	7	1348	2644	-22.375002	40.37501	['E0522', 'E0523']	-37	Coastal	EAFR	Coastal - E. Africa Coastal Province	NA	NA	NA
+G0101	2010	7	1433	2615	-29.458338	37.95834	['E0446', 'E0448']	-4893	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Indian Ocean	45
+G0102	2010	7	1434	2615	-29.541666	37.95834	['E0444', 'E0445']	-4866	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0103	2010	7	1498	2376	-34.875004	18.041666	['E0162']	-1426	Coastal	EAFR	Coastal - E. Africa Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0104	2010	7	1499	2375	-34.95834	17.958338	['E0160', 'E0161']	-1853	Coastal	EAFR	Coastal - E. Africa Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0105	2010	7	1502	2475	-35.20834	26.291666	['E0156', 'E0157', 'E0158']	-4185	Coastal	EAFR	Coastal - E. Africa Coastal Province	Indian	Indian Ocean	45
+G0106	2010	9	1191	2044	-9.291667	-9.6249895	['E0672']	-3671	Trades	ETRA	Trades - Eastern Tropical Atlantic Province	South Atlantic	South Atlantic Ocean	32
+G0107	2010	9	1191	2045	-9.291667	-9.541661	['E0670', 'E0671']	-3546	Trades	ETRA	Trades - Eastern Tropical Atlantic Province	South Atlantic	South Atlantic Ocean	32
+G0108	2010	9	1324	2121	-20.375002	-3.2083333	['E0544', 'E0545', 'E0546', 'E0547']	-4808	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0109	2010	9	1452	2215	-31.041666	4.62501	['E0413', 'E0414']	-4943	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0110	2010	9	1452	2216	-31.041666	4.7083383	['E0412']	-5066	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0111	2010	9	1465	2372	-32.125004	17.708338	['E0349']	-153	Coastal	BENG	Coastal - Benguela Current Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0112	2010	9	1466	2372	-32.20834	17.708338	['E0347', 'E0348']	-164	Coastal	BENG	Coastal - Benguela Current Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0113	2010	9	555	2092	43.708332	-5.62499	['E0937']	-12	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	Bay of Biscay	22
+G0114	2011	1	1060	157	1.6249975	-166.875	['E0742']	-5374	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	North Pacific	North Pacific Ocean	57
+G0115	2011	1	1438	3073	-29.875002	76.12501	['E0433']	-3440	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0116	2011	1	1455	2204	-31.291666	3.7083385	['E0410']	-4828	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0117	2011	1	1772	1354	-57.70834	-67.125	['E0042']	-2789	Polar	ANTA	Polar - Antarctic Province	South Atlantic	South Atlantic Ocean	32
+G0118	2011	1	1773	1355	-57.791668	-67.041664	['E0041']	-3085	Polar	ANTA	Polar - Antarctic Province	South Atlantic	South Atlantic Ocean	32
+G0119	2011	1	1773	1356	-57.791668	-66.958336	['E0040']	-2888	Polar	ANTA	Polar - Antarctic Province	South Atlantic	South Atlantic Ocean	32
+G0120	2011	1	1802	1432	-60.20834	-60.624996	['E0032']	-4063	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0121	2011	1	1824	1565	-62.041668	-49.54166	['E0026']	-3380	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0122	2011	1	1824	1566	-62.041668	-49.458332	['E0025']	-3357	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0123	2011	1	1825	1568	-62.12501	-49.29166	['E0024']	-3440	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0124	2011	1	1840	1478	-63.37501	-56.79166	['E0016', 'E0017', 'E0018']	-305	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0125	2011	1	1846	1486	-63.87501	-56.124996	['E0014', 'E0015']	-408	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0126	2011	1	1851	1523	-64.291664	-53.04166	['E0011']	-2322	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0127	2011	1	1852	1523	-64.37501	-53.04166	['E0008', 'E0009']	-2262	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0128	2011	1	1852	1524	-64.37501	-52.958332	['E0010']	-2320	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0129	2011	1	805	1625	22.874998	-44.54166	['E0818']	-3738	Trades	NATR	Trades - N. Atlantic Tropical Gyral Province (TRPG)	North Atlantic	North Atlantic Ocean	23
+G0130	2011	1	943	899	11.374997	-105.041664	['E0784']	-3328	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0131	2011	10	1333	1728	-21.125002	-35.958332	['E0537']	-4254	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0132	2011	10	1449	3446	-30.791666	107.20835	['E0418']	-4998	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0133	2011	10	655	627	35.374996	-127.708336	['E0874', 'E0875', 'E0876', 'E0877']	-4660	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0134	2011	10	683	697	33.041664	-121.875	['E0850']	-4035	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0135	2011	10	683	698	33.041664	-121.791664	['E0851']	-4019	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0136	2011	10	683	699	33.041664	-121.708336	['E0853']	-4010	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0137	2011	10	684	698	32.958332	-121.791664	['E0848']	-4027	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0138	2011	10	686	695	32.791664	-122.041664	['E0846']	-4033	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0139	2011	10	687	696	32.708332	-121.958336	['E0845']	-4084	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0140	2011	10	695	1952	32.041664	-17.291662	['E0844']	-4345	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0141	2011	10	701	251	31.541666	-159.04166	['E0838']	-5733	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0142	2011	10	701	252	31.541666	-158.95833	['E0839']	-5595	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0143	2011	10	702	251	31.458334	-159.04166	['E0836', 'E0837']	-5770	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0144	2011	11	1355	1716	-22.958338	-36.958332	['E0519']	-4026	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0145	2011	11	1453	3482	-31.125002	110.20835	['E0411']	-5304	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0146	2011	11	1458	3521	-31.541666	113.45835	['E0405']	-4965	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0147	2011	11	874	733	17.124998	-118.875	['E0796']	-3760	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0148	2011	11	875	732	17.041662	-118.958336	['E0793']	-3971	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0149	2011	11	875	733	17.041662	-118.875	['E0794', 'E0795']	-3811	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0150	2011	12	1002	1019	6.4583335	-95.041664	['E0758', 'E0760']	-3620	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0151	2011	12	1002	1020	6.4583335	-94.958336	['E0759', 'E0761']	-3675	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0152	2011	12	1004	924	6.2916617	-102.958336	['E0755', 'E0756', 'E0757']	-3133	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0153	2011	12	909	759	14.208333	-116.708336	['E0786']	-4106	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0154	2011	12	909	760	14.208333	-116.625	['E0787', 'E0788', 'E0789']	-4133	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0155	2011	12	961	1198	9.874997	-80.125	['E0776']	-1069	Coastal	GUIA	Coastal - Guianas Coastal Province	North Atlantic	Caribbean Sea	27
+G0156	2011	12	961	1199	9.874997	-80.041664	['E0775', 'E0777']	-1320	Coastal	GUIA	Coastal - Guianas Coastal Province	North Atlantic	Caribbean Sea	27
+G0157	2011	12	990	1208	7.4583335	-79.291664	['E0770', 'E0771']	-2167	Coastal	CAMR	Coastal - Central American Coastal Province	North Pacific	North Pacific Ocean	57
+G0158	2011	12	991	1208	7.3749976	-79.291664	['E0768', 'E0769']	-3273	Coastal	CAMR	Coastal - Central American Coastal Province	North Pacific	North Pacific Ocean	57
+G0159	2011	2	1035	170	3.7083333	-165.79166	['E0747']	-5421	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	North Pacific	North Pacific Ocean	57
+G0160	2011	2	1116	1832	-3.0416667	-27.291662	['E0714']	-5250	Trades	WTRA	Trades - Western Tropical Atlantic Province	South Atlantic	South Atlantic Ocean	32
+G0161	2011	2	1437	3115	-29.791666	79.62501	['E0434']	-4033	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0162	2011	2	1461	2242	-31.791666	6.87501	['E0403']	-5072	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0163	2011	2	1484	1296	-33.70834	-71.958336	['E0306', 'E0307', 'E0308']	-178	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0164	2011	2	1489	1282	-34.125004	-73.125	['E0173']	-5036	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0165	2011	2	1490	1282	-34.20834	-73.125	['E0171', 'E0172']	-4718	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0166	2011	2	1490	1283	-34.20834	-73.041664	['E0169']	-3820	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0167	2011	2	1554	1236	-39.541668	-76.958336	['E0126']	-4038	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0168	2011	2	1555	1236	-39.62501	-76.958336	['E0124', 'E0125']	-3780	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0169	2011	2	795	1657	23.708334	-41.87499	['E0821']	-4620	Trades	NATR	Trades - N. Atlantic Tropical Gyral Province (TRPG)	North Atlantic	North Atlantic Ocean	23
+G0170	2011	2	950	930	10.791661	-102.458336	['E0779', 'E0780']	-3304	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0171	2011	3	1137	1821	-4.7916665	-28.208334	['E0709', 'E0710']	-5414	Trades	WTRA	Trades - Western Tropical Atlantic Province	South Atlantic	South Atlantic Ocean	32
+G0172	2011	3	1417	869	-28.125002	-107.541664	['E0456']	-2155	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0173	2011	3	1418	869	-28.208338	-107.541664	['E0454']	-2869	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0174	2011	3	1418	871	-28.208338	-107.375	['E0455']	-3253	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0175	2011	3	1435	944	-29.625002	-101.291664	['E0441']	-3263	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0176	2011	3	1435	945	-29.625002	-101.208336	['E0439']	-3251	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0177	2011	3	1436	945	-29.708338	-101.208336	['E0437']	-3310	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0178	2011	3	1436	946	-29.708338	-101.125	['E0436']	-3336	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0179	2011	3	1456	1032	-31.375002	-93.958336	['E0409']	-3430	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0180	2011	3	1457	1032	-31.458338	-93.958336	['E0408']	-3318	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0181	2011	3	1472	1114	-32.70834	-87.125	['E0324']	-3518	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0182	2011	3	1473	1114	-32.791668	-87.125	['E0320', 'E0321']	-3611	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0183	2011	3	1473	1115	-32.791668	-87.041664	['E0319']	-3770	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0184	2011	3	1488	1282	-34.041668	-73.125	['E0229', 'E0230']	-5274	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0185	2011	3	232	683	70.625	-123.041664	['E0958']	-590	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	The Northwestern Passages	14
+G0186	2011	3	958	969	10.124997	-99.208336	['E0778']	-3675	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0187	2011	3	996	187	6.9583335	-164.375	['E0765', 'E0766']	-4601	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0188	2011	4	1143	1137	-5.2916665	-85.208336	['E0705', 'E0707']	-4220	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0189	2011	4	1143	1138	-5.2916665	-85.125	['E0706']	-3887	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0190	2011	4	1167	1808	-7.2916665	-29.291662	['E0696']	-5448	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0191	2011	4	1235	1007	-12.958339	-96.041664	['E0630', 'E0631']	-3459	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0192	2011	4	1235	1008	-12.958339	-95.958336	['E0629']	-3992	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0193	2011	4	1236	1008	-13.041667	-95.958336	['E0627']	-4011	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0194	2011	4	1333	902	-21.125002	-104.791664	['E0534', 'E0535', 'E0536']	-3920	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0195	2011	4	1334	901	-21.208338	-104.875	['E0533']	-3841	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0196	2011	4	1389	819	-25.791666	-111.708336	['E0484', 'E0485', 'E0486']	-3093	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0197	2011	4	1473	2313	-32.791668	12.791667	['E0318']	-3905	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0198	2011	4	766	1736	26.124998	-35.29166	['E0825']	-6025	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0199	2011	4	966	1003	9.458333	-96.375	['E0774']	-3754	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0200	2011	4	969	198	9.208333	-163.45833	['E0773']	-4257	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0201	2011	5	1055	1145	2.0416615	-84.541664	['E0745', 'E0746']	-2861	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0202	2011	5	1056	1145	1.9583334	-84.541664	['E0743', 'E0744']	-3090	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0203	2011	5	1079	1144	0.04166158	-84.625	['E0739', 'E0740']	-3022	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	North Pacific	North Pacific Ocean	57
+G0204	2011	5	1080	1144	-0.041666668	-84.625	['E0730', 'E0731']	-3014	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0205	2011	5	1103	1144	-1.9583384	-84.625	['E0722', 'E0723']	-2690	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0206	2011	5	1104	1144	-2.0416667	-84.625	['E0720']	-2604	Coastal	CHIL	Coastal - Chile-Peru Current Coastal Province	South Pacific	South Pacific Ocean	61
+G0207	2011	5	1283	951	-16.958338	-100.708336	['E0604']	-3906	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0208	2011	5	1283	952	-16.958338	-100.625	['E0602', 'E0603']	-4185	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0209	2011	5	1478	2344	-33.20834	15.3750105	['E0314']	-3609	Coastal	BENG	Coastal - Benguela Current Coastal Province	South Atlantic	South Atlantic Ocean	32
+G0210	2011	5	757	1765	26.874998	-32.87499	['E0826']	-5105	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0211	2011	5	940	211	11.624997	-162.375	['E0785']	-5190	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0212	2011	6	1357	540	-23.125002	-134.95833	['E0501', 'E0502', 'E0503', 'E0508', 'E0509', 'E0510']	-12	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	NA	NA	NA
+G0213	2011	6	1358	540	-23.208338	-134.95833	['E0494', 'E0495', 'E0496', 'E0497', 'E0498', 'E0499']	-8	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0214	2011	6	1358	604	-23.208338	-129.62498	['E0500']	-3568	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0215	2011	6	1359	606	-23.291666	-129.45833	['E0493']	-3462	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0216	2011	6	1359	607	-23.291666	-129.37498	['E0492']	-3410	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0217	2011	6	1435	3275	-29.625002	92.95835	['E0442']	-2479	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0218	2011	6	982	1075	8.124997	-90.375	['E0772']	-3437	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0219	2011	7	1186	476	-8.875003	-140.29166	['E0684', 'E0685', 'E0686', 'E0688']	-1217	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0220	2011	7	1187	488	-8.958339	-139.29166	['E0680']	-3127	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0221	2011	7	1187	489	-8.958339	-139.20833	['E0679', 'E0681']	-3465	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0222	2011	7	1188	489	-9.041667	-139.20833	['E0677']	-3568	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0223	2011	7	1244	1771	-13.708339	-32.37499	['E0621']	-4767	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0224	2011	7	1356	539	-23.041666	-135.04166	['E0511', 'E0512', 'E0513']	-412	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0225	2011	7	1356	540	-23.041666	-134.95833	['E0514', 'E0515', 'E0516', 'E0517']	-10	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0226	2011	7	1357	539	-23.125002	-135.04166	['E0504', 'E0505', 'E0506', 'E0507']	26	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0227	2011	7	1434	3316	-29.541666	96.37501	['E0443']	-2911	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0228	2011	7	733	1836	28.874998	-26.958334	['E0830']	-5106	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0229	2011	7	993	1104	7.2083335	-87.958336	['E0767']	-3442	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0230	2011	8	1009	1142	5.8749976	-84.791664	['E0751']	-2555	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0231	2011	8	1159	330	-6.6250024	-152.45833	['E0698', 'E0699', 'E0700']	-4623	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0232	2011	8	1186	448	-8.875003	-142.62498	['E0687', 'E0689']	-4520	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0233	2011	8	1186	449	-8.875003	-142.54166	['E0682', 'E0683']	-4394	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0234	2011	8	1188	472	-9.041667	-140.62498	['E0676']	-476	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0235	2011	8	1189	473	-9.125003	-140.54166	['E0674', 'E0675']	-2289	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0236	2011	8	1189	474	-9.125003	-140.45833	['E0673']	-3195	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0237	2011	8	1223	345	-11.958339	-151.20833	['E0652', 'E0653']	-4942	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0238	2011	8	1223	346	-11.958339	-151.125	['E0651']	-4778	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0239	2011	8	1223	347	-11.958339	-151.04166	['E0650']	-4906	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0240	2011	8	1269	1759	-15.791667	-33.37499	['E0611']	-4587	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0241	2011	8	1443	3399	-30.291666	103.291664	['E0423']	-4842	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0242	2011	8	720	1875	29.958334	-23.708334	['E0834']	-5306	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0243	2011	9	1079	315	0.04166158	-153.70833	['E0733', 'E0737', 'E0738']	-4769	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	North Pacific	North Pacific Ocean	57
+G0244	2011	9	1079	316	0.04166158	-153.625	['E0736']	-4766	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	North Pacific	North Pacific Ocean	57
+G0245	2011	9	1159	329	-6.6250024	-152.54166	['E0701']	-4913	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0246	2011	9	1301	1744	-18.458338	-34.62499	['E0592']	-4227	Trades	SATL	Trades - South Atlantic Gyral Province (SATG)	South Atlantic	South Atlantic Ocean	32
+G0247	2011	9	1443	3399	-30.291666	103.291664	['E0425']	-4842	Trades	ISSG	Trades - Indian S. Subtropical Gyre Province	Indian	Indian Ocean	45
+G0248	2011	9	708	1912	30.958334	-20.62499	['E0835']	-4812	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0249	2011	9	806	264	22.791662	-157.95833	['E0816', 'E0817']	-4722	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0250	2011	9	807	263	22.708334	-158.04166	['E0814']	-4729	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0251	2011	9	807	264	22.708334	-157.95833	['E0815']	-4750	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0252	2011	9	944	330	11.291661	-152.45833	['E0781']	-5303	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0253	2011	9	944	331	11.291661	-152.375	['E0782', 'E0783']	-5179	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0254	2011	9	997	322	6.8749976	-153.125	['E0764']	-4987	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0255	2011	9	999	323	6.7083335	-153.04166	['E0762', 'E0763']	-5157	Trades	PNEC	Trades - N. Pacific Equatorial Countercurrent Province	North Pacific	North Pacific Ocean	57
+G0256	2012	1	643	1284	36.374996	-72.958336	['E0893']	-3543	Westerlies	GFST	Westerlies - Gulf Stream Province	North Atlantic	North Atlantic Ocean	23
+G0257	2012	1	643	1286	36.374996	-72.791664	['E0892']	-3602	Westerlies	GFST	Westerlies - Gulf Stream Province	North Atlantic	North Atlantic Ocean	23
+G0258	2012	1	643	1287	36.374996	-72.708336	['E0891']	-3666	Westerlies	GFST	Westerlies - Gulf Stream Province	North Atlantic	North Atlantic Ocean	23
+G0259	2012	1	722	1204	29.791666	-79.625	['E0833']	-800	Coastal	NWCS	Coastal - NW Atlantic Shelves Province	North Atlantic	North Atlantic Ocean	23
+G0260	2012	1	723	1204	29.708334	-79.625	['E0832']	-800	Coastal	NWCS	Coastal - NW Atlantic Shelves Province	North Atlantic	North Atlantic Ocean	23
+G0261	2012	1	724	1205	29.624998	-79.541664	['E0831']	-800	Coastal	NWCS	Coastal - NW Atlantic Shelves Province	North Atlantic	North Atlantic Ocean	23
+G0262	2012	1	772	1098	25.624998	-88.458336	['E0824']	-3258	Trades	CARB	Trades - Caribbean Province	North Atlantic	Gulf of Mexico	26
+G0263	2012	1	773	1099	25.541662	-88.375	['E0822', 'E0823']	-3311	Trades	CARB	Trades - Caribbean Province	North Atlantic	Gulf of Mexico	26
+G0264	2012	10	1209	3748	-10.791667	132.37502	['E0661']	-34	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Arafura Sea	48h
+G0265	2012	10	1209	3821	-10.791667	138.45836	['E0659']	-48	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Arafura Sea	48h
+G0266	2012	10	1209	3843	-10.791667	140.29167	['E0660']	-28	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Arafura Sea	48h
+G0267	2012	10	1209	3889	-10.791667	144.12502	['E0658']	-570	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	South Pacific	Coral Sea	64
+G0268	2012	10	1220	3890	-11.708339	144.20836	['E0654']	-984	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	South Pacific	Coral Sea	64
+G0269	2012	10	1246	3896	-13.875003	144.70836	['E0619']	-937	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0270	2012	10	1275	3912	-16.291666	146.04167	['E0609']	-331	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0271	2012	2	1489	3974	-34.125004	151.20836	['E0175']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0272	2012	2	1591	3938	-42.62501	148.20836	['E0079']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0273	2012	2	609	1319	39.208332	-70.041664	['E0909', 'E0910', 'E0912', 'E0913']	-2682	Westerlies	GFST	Westerlies - Gulf Stream Province	North Atlantic	North Atlantic Ocean	23
+G0274	2012	2	662	1305	34.791664	-71.208336	['E0872', 'E0873']	-4613	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0275	2012	2	663	1304	34.708332	-71.291664	['E0871']	-4656	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0276	2012	2	683	1361	33.041664	-66.541664	['E0852', 'E0854']	-4962	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0277	2012	2	684	1361	32.958332	-66.541664	['E0847', 'E0849']	-4959	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0278	2012	2	698	1390	31.791666	-64.125	['E0842', 'E0843']	-4562	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0279	2012	2	699	1389	31.708334	-64.208336	['E0840', 'E0841']	-4495	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0280	2012	3	1489	3974	-34.125004	151.20836	['E0176']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0281	2012	3	1591	3938	-42.62501	148.20836	['E0080']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0282	2012	3	555	1957	43.708332	-16.87499	['E0938', 'E0939', 'E0940']	-3926	Westerlies	NADR	Westerlies - N. Atlantic Drift Province (WWDR)	North Atlantic	North Atlantic Ocean	23
+G0283	2012	3	645	1811	36.208332	-29.041662	['E0889']	-3399	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0284	2012	3	646	1811	36.124996	-29.041662	['E0888']	-3284	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0285	2012	3	646	1812	36.124996	-28.958334	['E0886', 'E0887']	-3535	Westerlies	NASE	Westerlies - N. Atlantic Subtropical Gyral Province (East) (STGE)	North Atlantic	North Atlantic Ocean	23
+G0286	2012	3	648	1712	35.958332	-37.29166	['E0883', 'E0884']	-3182	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0287	2012	3	649	1713	35.874996	-37.208332	['E0881', 'E0882']	-3111	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0288	2012	3	670	1560	34.124996	-49.958332	['E0865']	-4723	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0289	2012	3	671	1561	34.041664	-49.87499	['E0862', 'E0863', 'E0864']	-4897	Westerlies	NASW	Westerlies - N. Atlantic Subtropical Gyral Province (West) (STGW)	North Atlantic	North Atlantic Ocean	23
+G0290	2012	4	1591	3938	-42.62501	148.20836	['E0081']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0291	2012	5	1408	4002	-27.375002	153.54167	['E0460']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0292	2012	5	1489	3974	-34.125004	151.20836	['E0177']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0293	2012	5	1591	3938	-42.62501	148.20836	['E0082']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0294	2012	6	1591	3938	-42.62501	148.20836	['E0083']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0295	2013	10	210	1297	72.458336	-71.875	['E0970', 'E0971', 'E0972']	-1054	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0296	2013	10	228	1516	70.958336	-53.624996	['E0960', 'E0961']	-659	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0297	2013	10	228	1517	70.958336	-53.54166	['E0959']	-667	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0298	2013	10	250	1540	69.125	-51.62499	['E0957']	-316	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Davis Strait	15
+G0299	2013	10	250	1541	69.125	-51.54166	['E0955', 'E0956']	-372	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Davis Strait	15
+G0300	2013	10	302	1522	64.791664	-53.124996	['E0950', 'E0951']	-341	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Davis Strait	15
+G0301	2013	10	303	1523	64.708336	-53.04166	['E0949']	-490	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Davis Strait	15
+G0302	2013	10	341	1488	61.541664	-55.958332	['E0946', 'E0947', 'E0948']	-2778	Polar	ARCT	Polar - Atlantic Arctic Province	Arctic	Davis Strait	15
+G0303	2013	10	677	739	33.541664	-118.375	['E0857']	-898	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0304	2013	4	677	739	33.541664	-118.375	['E0855']	-898	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0305	2013	5	425	1956	54.541664	-16.958334	['E0943']	-2482	Westerlies	NADR	Westerlies - N. Atlantic Drift Province (WWDR)	North Atlantic	North Atlantic Ocean	23
+G0306	2013	5	425	1957	54.541664	-16.87499	['E0944', 'E0945']	-2484	Westerlies	NADR	Westerlies - N. Atlantic Drift Province (WWDR)	North Atlantic	North Atlantic Ocean	23
+G0307	2013	6	165	2176	76.208336	1.3750101	['E0984']	-3132	Polar	ARCT	Polar - Atlantic Arctic Province	Arctic	Greenland Sea	5
+G0308	2013	6	274	2162	67.125	0.20833842	['E0954']	-3437	Polar	SARC	Polar - Atlantic Subarctic Province	Arctic	Norwegian Sea	6
+G0309	2013	6	274	2163	67.125	0.29166666	['E0953']	-3311	Polar	SARC	Polar - Atlantic Subarctic Province	Arctic	Norwegian Sea	6
+G0310	2013	6	274	2164	67.125	0.37501016	['E0952']	-3449	Polar	SARC	Polar - Atlantic Subarctic Province	Arctic	Norwegian Sea	6
+G0311	2013	7	1207	3755	-10.625003	132.95836	['E0663']	-46	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Arafura Sea	48h
+G0312	2013	7	129	2956	79.208336	66.37501	['E0999', 'E1000']	-446	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Barentsz Sea	7
+G0313	2013	7	129	2959	79.208336	66.62501	['E0998']	-477	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Barentsz Sea	7
+G0314	2013	7	132	3110	78.958336	79.20835	['E0993']	-113	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0315	2013	7	132	3112	78.958336	79.37501	['E0994']	-79	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0316	2013	7	132	3113	78.958336	79.45835	['E0995']	-68	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0317	2013	7	154	3038	77.125	73.208336	['E0985']	-192	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0318	2013	7	182	3073	74.79167	76.12501	['E0981', 'E0982']	-32	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0319	2013	7	182	3074	74.79167	76.20835	['E0983']	-31	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0320	2013	7	208	2689	72.625	44.12501	['E0974', 'E0975']	-270	Polar	SARC	Polar - Atlantic Subarctic Province	Arctic	Barentsz Sea	7
+G0321	2013	7	209	2688	72.541664	44.041668	['E0973']	-264	Polar	SARC	Polar - Atlantic Subarctic Province	Arctic	Barentsz Sea	7
+G0322	2013	7	677	739	33.541664	-118.375	['E0856']	-898	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0323	2013	8	1206	3887	-10.541667	143.95836	['E0664']	-74	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	South Pacific	Coral Sea	64
+G0324	2013	8	1208	3825	-10.708339	138.79167	['E0662']	-42	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Arafura Sea	48h
+G0325	2013	8	1209	3839	-10.791667	139.95836	['E0657']	-33	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Arafura Sea	48h
+G0326	2013	8	1246	3892	-13.875003	144.37502	['E0618']	-86	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	South Pacific	Coral Sea	64
+G0327	2013	8	1280	3916	-16.708338	146.37502	['E0607']	-187	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0328	2013	8	1308	3947	-19.041666	148.95836	['E0583']	-168	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0329	2013	8	1374	4003	-24.541666	153.62502	['E0489']	-2321	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0330	2013	8	139	3259	78.375	91.62501	['E0992']	-41	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0331	2013	8	140	3260	78.29167	91.70835	['E0991']	-37	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0332	2013	8	140	3262	78.29167	91.87501	['E0990']	-32	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Kara Sea	9
+G0333	2013	8	144	3561	77.958336	116.791664	['E0989']	-964	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Laptev Sea	10
+G0334	2013	8	144	3563	77.958336	116.95835	['E0988']	-1059	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Laptev Sea	10
+G0335	2013	8	145	3565	77.875	117.12501	['E0987']	-1039	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Laptev Sea	10
+G0336	2013	9	188	1128	74.29167	-85.958336	['E0980']	-543	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	The Northwestern Passages	14
+G0337	2013	9	188	1130	74.29167	-85.791664	['E0979']	-538	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	The Northwestern Passages	14
+G0338	2013	9	199	140	73.375	-168.29166	['E0977']	-101	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Arctic Ocean	17
+G0339	2013	9	199	141	73.375	-168.20833	['E0976']	-102	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Arctic Ocean	17
+G0340	2013	9	199	142	73.375	-168.125	['E0978']	-101	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Arctic Ocean	17
+G0341	2013	9	216	300	71.958336	-154.95833	['E0969']	-349	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Arctic Ocean	17
+G0342	2013	9	217	301	71.875	-154.875	['E0967', 'E0968']	-315	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Arctic Ocean	17
+G0343	2013	9	220	4091	71.625	160.95836	['E0966']	-20	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	East Siberian Sea	11
+G0344	2013	9	221	4091	71.541664	160.95836	['E0965']	-20	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	East Siberian Sea	11
+G0345	2013	9	226	4257	71.125	174.79167	['E0964']	-39	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	East Siberian Sea	11
+G0346	2013	9	226	4258	71.125	174.87502	['E0963']	-38	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	East Siberian Sea	11
+G0347	2013	9	227	4259	71.041664	174.95836	['E0962']	-38	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	East Siberian Sea	11
+G0348	2014	1	677	739	33.541664	-118.375	['E0858']	-898	Coastal	CCAL	Coastal - California Upwelling Coastal Province	North Pacific	North Pacific Ocean	57
+G0349	2014	11	1587	3941	-42.291668	148.45836	['E0113']	-110	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0350	2014	11	1587	3942	-42.291668	148.54167	['E0109', 'E0114']	-268	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0351	2014	11	1587	3943	-42.291668	148.62502	['E0112']	-1235	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0352	2014	11	1587	3944	-42.291668	148.70836	['E0111']	-1919	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0353	2014	11	1587	3945	-42.291668	148.79167	['E0110']	-2324	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0354	2014	12	460	622	51.624996	-128.12498	['E0942']	71	NA	NA	NA	NA	NA	NA
+G0355	2014	12	810	263	22.458334	-158.04166	['E0810']	-4825	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0356	2014	2	1489	3974	-34.125004	151.20836	['E0178']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0357	2015	10	1408	4002	-27.375002	153.54167	['E0467']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0358	2015	10	1463	3545	-31.958338	115.45835	['E0355']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0359	2015	10	1489	3974	-34.125004	151.20836	['E0184']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0360	2015	10	1591	3938	-42.62501	148.20836	['E0088']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0361	2015	11	1228	3729	-12.375003	130.79167	['E0638']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0362	2015	11	1311	3931	-19.291666	147.62502	['E0555']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0363	2015	11	1408	4002	-27.375002	153.54167	['E0468']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0364	2015	11	1489	3974	-34.125004	151.20836	['E0185']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0365	2015	11	1509	3797	-35.791668	136.45836	['E0147']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0366	2015	11	1591	3938	-42.62501	148.20836	['E0089']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0367	2015	12	1311	3931	-19.291666	147.62502	['E0556']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0368	2015	12	1408	4002	-27.375002	153.54167	['E0469']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0369	2015	12	1463	3545	-31.958338	115.45835	['E0356']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0370	2015	12	1480	3723	-33.375004	130.29167	['E0313']	-619	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Great Australian Bight	62
+G0371	2015	12	1481	3728	-33.45834	130.70836	['E0311']	-856	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Great Australian Bight	62
+G0372	2015	12	1482	3728	-33.541668	130.70836	['E0309']	-1057	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0373	2015	12	1489	3974	-34.125004	151.20836	['E0186']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0374	2015	12	1496	3722	-34.70834	130.20836	['E0164']	-2357	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0375	2015	12	1519	3792	-36.625004	136.04167	['E0136']	-3761	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0376	2015	12	1591	3938	-42.62501	148.20836	['E0090']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0377	2015	12	810	263	22.458334	-158.04166	['E0813']	-4825	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0378	2015	2	574	2052	42.124996	-8.958333	['E0924']	-77	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	North Atlantic Ocean	23
+G0379	2015	3	103	1392	81.375	-63.958332	['E1004']	-483	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0380	2015	3	1489	3974	-34.125004	151.20836	['E0179']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0381	2015	3	574	2052	42.124996	-8.958333	['E0925']	-77	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	North Atlantic Ocean	23
+G0382	2015	4	110	1352	80.79167	-67.291664	['E1003']	-398	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0383	2015	4	120	1322	79.958336	-69.791664	['E1002']	-242	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0384	2015	4	1591	3938	-42.62501	148.20836	['E0084']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0385	2015	4	810	263	22.458334	-158.04166	['E0811']	-4825	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0386	2015	5	127	1297	79.375	-71.875	['E1001']	-215	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0387	2015	5	131	1314	79.04167	-70.458336	['E0997']	-323	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0388	2015	5	1408	4002	-27.375002	153.54167	['E0461', 'E0462']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0389	2015	5	1489	3974	-34.125004	151.20836	['E0180']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0390	2015	5	1591	3938	-42.62501	148.20836	['E0085']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0391	2015	5	574	2052	42.124996	-8.958333	['E0926', 'E0927']	-77	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	North Atlantic Ocean	23
+G0392	2015	6	131	1281	79.04167	-73.208336	['E0996']	-228	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0393	2015	6	1311	3931	-19.291666	147.62502	['E0550', 'E0551']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0394	2015	6	1403	4006	-26.958338	153.87502	['E0481']	-1915	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0395	2015	6	1408	4002	-27.375002	153.54167	['E0463']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0396	2015	6	1440	4003	-30.041666	153.62502	['E0430']	-1792	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0397	2015	6	1447	4000	-30.625002	153.37502	['E0420']	-1171	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0398	2015	6	1469	3998	-32.45834	153.20836	['E0336', 'E0339']	-3382	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0399	2015	6	1471	3996	-32.625004	153.04167	['E0327']	-2479	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0400	2015	6	1471	3997	-32.625004	153.12502	['E0328']	-2751	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0401	2015	6	1471	3998	-32.625004	153.20836	['E0329']	-3068	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0402	2015	6	1471	4000	-32.625004	153.37502	['E0326']	-4537	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0403	2015	6	1472	3998	-32.70834	153.20836	['E0325']	-3880	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0404	2015	6	1473	4005	-32.791668	153.79167	['E0322']	-4749	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0405	2015	6	1489	3974	-34.125004	151.20836	['E0181']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0406	2015	6	1509	3797	-35.791668	136.45836	['E0145']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0407	2015	6	152	1251	77.29167	-75.708336	['E0986']	-571	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Baffin Bay	14A
+G0408	2015	6	574	2052	42.124996	-8.958333	['E0928']	-77	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	North Atlantic Ocean	23
+G0409	2015	7	1408	4002	-27.375002	153.54167	['E0464']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0410	2015	7	1463	3545	-31.958338	115.45835	['E0351', 'E0352']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0411	2015	7	1489	3974	-34.125004	151.20836	['E0182']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0412	2015	7	1591	3938	-42.62501	148.20836	['E0086']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0413	2015	8	1228	3729	-12.375003	130.79167	['E0636', 'E0637']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0414	2015	8	1311	3931	-19.291666	147.62502	['E0552', 'E0553', 'E0554']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0415	2015	8	1408	4002	-27.375002	153.54167	['E0465']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0416	2015	8	1463	3545	-31.958338	115.45835	['E0353']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0417	2015	8	1489	3974	-34.125004	151.20836	['E0183']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0418	2015	8	1591	3938	-42.62501	148.20836	['E0087']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0419	2015	8	574	2052	42.124996	-8.958333	['E0929']	-77	Coastal	CNRY	Coastal - Canary Coastal Province (EACB)	North Atlantic	North Atlantic Ocean	23
+G0420	2015	8	810	263	22.458334	-158.04166	['E0812']	-4825	Trades	NPTG	Trades - N. Pacific Tropical Gyre Province	North Pacific	North Pacific Ocean	57
+G0421	2015	9	1408	4002	-27.375002	153.54167	['E0466']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0422	2015	9	1463	3545	-31.958338	115.45835	['E0354']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0423	2015	9	1509	3797	-35.791668	136.45836	['E0146']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0424	2015	9	81	2427	83.208336	22.291666	['E1005']	-4000	Polar	BPLR	Polar - Boreal Polar Province (POLR)	Arctic	Arctic Ocean	17
+G0425	2016	1	1311	3931	-19.291666	147.62502	['E0557']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0426	2016	1	1408	4002	-27.375002	153.54167	['E0470']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0427	2016	10	1309	3919	-19.125002	146.62502	['E0578']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0428	2016	10	1311	3931	-19.291666	147.62502	['E0564']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0429	2016	10	1462	3549	-31.875002	115.791664	['E0395']	37	NA	NA	NA	NA	NA	NA
+G0430	2016	10	1463	3545	-31.958338	115.45835	['E0363', 'E0364']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0431	2016	10	1485	3975	-33.791668	151.29167	['E0297']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0432	2016	10	1486	3974	-33.875004	151.20836	['E0282']	46	NA	NA	NA	NA	NA	NA
+G0433	2016	10	1487	3974	-33.95834	151.20836	['E0265']	0	NA	NA	NA	NA	NA	NA
+G0434	2016	10	1488	3973	-34.041668	151.12502	['E0205', 'E0220']	29	NA	NA	NA	NA	NA	NA
+G0435	2016	10	1488	3974	-34.041668	151.20836	['E0241', 'E0242']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0436	2016	11	1228	3729	-12.375003	130.79167	['E0644']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0437	2016	11	1302	3917	-18.541666	146.45836	['E0589']	-10	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0438	2016	11	1303	3917	-18.625002	146.45836	['E0586']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0439	2016	11	1309	3919	-19.125002	146.62502	['E0579']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0440	2016	11	1311	3931	-19.291666	147.62502	['E0565']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0441	2016	11	1462	3548	-31.875002	115.70835	['E0382']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0442	2016	11	1462	3549	-31.875002	115.791664	['E0396']	37	NA	NA	NA	NA	NA	NA
+G0443	2016	11	1463	3545	-31.958338	115.45835	['E0365']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0444	2016	11	1485	3975	-33.791668	151.29167	['E0298']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0445	2016	11	1486	3974	-33.875004	151.20836	['E0283']	46	NA	NA	NA	NA	NA	NA
+G0446	2016	11	1487	3974	-33.95834	151.20836	['E0266']	0	NA	NA	NA	NA	NA	NA
+G0447	2016	11	1488	3973	-34.041668	151.12502	['E0206', 'E0221']	29	NA	NA	NA	NA	NA	NA
+G0448	2016	11	1488	3974	-34.041668	151.20836	['E0243', 'E0244']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0449	2016	11	1509	3797	-35.791668	136.45836	['E0151']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0450	2016	11	1591	3938	-42.62501	148.20836	['E0100']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0451	2016	12	1309	3919	-19.125002	146.62502	['E0580']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0452	2016	12	1311	3931	-19.291666	147.62502	['E0566']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0453	2016	12	1408	4002	-27.375002	153.54167	['E0474']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0454	2016	12	1462	3548	-31.875002	115.70835	['E0383']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0455	2016	12	1462	3549	-31.875002	115.791664	['E0397']	37	NA	NA	NA	NA	NA	NA
+G0456	2016	12	1463	3545	-31.958338	115.45835	['E0366']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0457	2016	12	1485	3975	-33.791668	151.29167	['E0299']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0458	2016	12	1486	3974	-33.875004	151.20836	['E0284']	46	NA	NA	NA	NA	NA	NA
+G0459	2016	12	1487	3974	-33.95834	151.20836	['E0267']	0	NA	NA	NA	NA	NA	NA
+G0460	2016	12	1488	3973	-34.041668	151.12502	['E0207', 'E0222']	29	NA	NA	NA	NA	NA	NA
+G0461	2016	12	1488	3974	-34.041668	151.20836	['E0245', 'E0246']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0462	2016	2	1228	3729	-12.375003	130.79167	['E0639', 'E0640']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0463	2016	2	1309	3919	-19.125002	146.62502	['E0573']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0464	2016	2	1311	3931	-19.291666	147.62502	['E0558']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0465	2016	2	1462	3548	-31.875002	115.70835	['E0375']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0466	2016	2	1462	3549	-31.875002	115.791664	['E0388']	37	NA	NA	NA	NA	NA	NA
+G0467	2016	2	1463	3545	-31.958338	115.45835	['E0357']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0468	2016	2	1489	3974	-34.125004	151.20836	['E0187']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0469	2016	2	1509	3797	-35.791668	136.45836	['E0148']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0470	2016	2	1591	3938	-42.62501	148.20836	['E0091']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0471	2016	3	1309	3919	-19.125002	146.62502	['E0574']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0472	2016	3	1311	3931	-19.291666	147.62502	['E0559']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0473	2016	3	1408	4002	-27.375002	153.54167	['E0471']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0474	2016	3	1463	3545	-31.958338	115.45835	['E0358']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0475	2016	3	1489	3974	-34.125004	151.20836	['E0188']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0476	2016	3	1591	3938	-42.62501	148.20836	['E0092', 'E0093']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0477	2016	4	1302	3917	-18.541666	146.45836	['E0588']	-10	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0478	2016	4	1309	3919	-19.125002	146.62502	['E0575']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0479	2016	4	1408	4002	-27.375002	153.54167	['E0472']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0480	2016	4	1462	3548	-31.875002	115.70835	['E0376']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0481	2016	4	1462	3549	-31.875002	115.791664	['E0389']	37	NA	NA	NA	NA	NA	NA
+G0482	2016	4	1463	3545	-31.958338	115.45835	['E0359']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0483	2016	4	1485	3975	-33.791668	151.29167	['E0291']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0484	2016	4	1486	3974	-33.875004	151.20836	['E0274']	46	NA	NA	NA	NA	NA	NA
+G0485	2016	4	1487	3974	-33.95834	151.20836	['E0257']	0	NA	NA	NA	NA	NA	NA
+G0486	2016	4	1488	3973	-34.041668	151.12502	['E0198', 'E0214']	29	NA	NA	NA	NA	NA	NA
+G0487	2016	4	1488	3974	-34.041668	151.20836	['E0231']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0488	2016	4	1489	3974	-34.125004	151.20836	['E0189']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0489	2016	4	1591	3938	-42.62501	148.20836	['E0094']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0490	2016	5	1228	3729	-12.375003	130.79167	['E0641']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0491	2016	5	1303	3917	-18.625002	146.45836	['E0585']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0492	2016	5	1311	3931	-19.291666	147.62502	['E0560']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0493	2016	5	1408	4002	-27.375002	153.54167	['E0473']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0494	2016	5	1462	3548	-31.875002	115.70835	['E0377', 'E0378', 'E0379']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0495	2016	5	1462	3549	-31.875002	115.791664	['E0390', 'E0391', 'E0392']	37	NA	NA	NA	NA	NA	NA
+G0496	2016	5	1463	3545	-31.958338	115.45835	['E0360', 'E0361']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0497	2016	5	1485	3975	-33.791668	151.29167	['E0292']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0498	2016	5	1486	3974	-33.875004	151.20836	['E0275']	46	NA	NA	NA	NA	NA	NA
+G0499	2016	5	1487	3974	-33.95834	151.20836	['E0258']	0	NA	NA	NA	NA	NA	NA
+G0500	2016	5	1488	3973	-34.041668	151.12502	['E0199', 'E0215']	29	NA	NA	NA	NA	NA	NA
+G0501	2016	5	1488	3974	-34.041668	151.20836	['E0232']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0502	2016	5	1489	3974	-34.125004	151.20836	['E0190']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0503	2016	5	1509	3797	-35.791668	136.45836	['E0149']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0504	2016	5	1533	105	-37.791668	-171.20833	['E0131']	-4952	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0505	2016	5	1538	101	-38.20834	-171.54166	['E0130']	-4746	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0506	2016	5	1543	98	-38.62501	-171.79166	['E0129']	-4637	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0507	2016	5	1548	94	-39.041668	-172.125	['E0128']	-4793	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0508	2016	5	1554	91	-39.541668	-172.375	['E0127']	-4763	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	South Pacific Ocean	61
+G0509	2016	5	1559	87	-39.95834	-172.70833	['E0123']	-4863	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	South Pacific Ocean	61
+G0510	2016	5	1564	83	-40.37501	-173.04166	['E0122']	-4274	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	South Pacific Ocean	61
+G0511	2016	5	1570	80	-40.87501	-173.29166	['E0118']	-4143	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	South Pacific Ocean	61
+G0512	2016	5	1575	76	-41.291668	-173.625	['E0117']	-3215	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	South Pacific Ocean	61
+G0513	2016	5	1580	72	-41.70834	-173.95833	['E0116']	-2724	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0514	2016	5	1586	68	-42.20834	-174.29166	['E0115']	-2623	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0515	2016	5	1588	67	-42.37501	-174.375	['E0108']	-2660	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0516	2016	5	1591	3938	-42.62501	148.20836	['E0095']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0517	2016	5	1593	64	-42.791668	-174.625	['E0078']	-1258	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0518	2016	5	1595	62	-42.95834	-174.79166	['E0077']	-866	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0519	2016	5	1609	72	-44.12501	-173.95833	['E0076']	-1926	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0520	2016	5	1611	75	-44.291668	-173.70833	['E0075']	-3294	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0521	2016	5	1614	77	-44.541668	-173.54166	['E0074']	-3302	Coastal	NEWZ	Coastal - New Zealand Coastal Province	South Pacific	South Pacific Ocean	61
+G0522	2016	5	1618	82	-44.87501	-173.125	['E0071']	-4374	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0523	2016	5	1622	87	-45.20834	-172.70833	['E0070']	-4576	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0524	2016	5	1635	103	-46.291668	-171.375	['E0069']	-5129	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0525	2016	5	1645	114	-47.12501	-170.45833	['E0068']	-5304	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0526	2016	5	1649	120	-47.45834	-169.95833	['E0066']	-5326	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0527	2016	5	1655	120	-47.95834	-169.95833	['E0065']	-5352	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0528	2016	5	1662	119	-48.541668	-170.04166	['E0063']	-5286	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0529	2016	5	1667	119	-48.95834	-170.04166	['E0062']	-5293	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0530	2016	5	1686	119	-50.541668	-170.04166	['E0061']	-5040	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0531	2016	5	1704	119	-52.041668	-170.04166	['E0059']	-4647	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0532	2016	5	1722	120	-53.541668	-169.95833	['E0055']	-5118	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0533	2016	5	1727	120	-53.95834	-169.95833	['E0053']	-5111	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0534	2016	5	1733	119	-54.45834	-170.04166	['E0050']	-4886	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0535	2016	5	1746	120	-55.541668	-169.95833	['E0047']	-4868	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0536	2016	5	1751	119	-55.95834	-170.04166	['E0045']	-5004	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0537	2016	5	1764	119	-57.041668	-170.04166	['E0043']	-4754	Westerlies	SANT	Westerlies - Subantarctic Province	South Pacific	South Pacific Ocean	61
+G0538	2016	5	1787	119	-58.95834	-170.04166	['E0036']	-4842	Polar	ANTA	Polar - Antarctic Province	South Pacific	South Pacific Ocean	61
+G0539	2016	5	1812	119	-61.041668	-170.04166	['E0030']	-4118	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0540	2016	5	1817	120	-61.45834	-169.95833	['E0029']	-3548	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0541	2016	5	1824	120	-62.041668	-169.95833	['E0027']	-3401	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0542	2016	5	1829	120	-62.45834	-169.95833	['E0022']	-3090	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0543	2016	5	1836	119	-63.041668	-170.04166	['E0021']	-3139	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0544	2016	5	1847	119	-63.95834	-170.04166	['E0013']	-2753	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0545	2016	5	1875	120	-66.291664	-169.95833	['E0001']	-3260	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0546	2016	6	1080	135	-0.041666668	-168.70833	['E0732']	-5536	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0547	2016	6	1085	135	-0.4583384	-168.70833	['E0729']	-5513	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0548	2016	6	1091	135	-0.95833844	-168.70833	['E0725']	-5664	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0549	2016	6	1098	135	-1.5416666	-168.70833	['E0724']	-4128	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0550	2016	6	1104	134	-2.0416667	-168.79166	['E0721']	-3110	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0551	2016	6	1110	134	-2.5416667	-168.79166	['E0716']	-5331	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0552	2016	6	1115	134	-2.9583385	-168.79166	['E0715']	-5163	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0553	2016	6	1122	134	-3.5416667	-168.79166	['E0713']	-4655	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0554	2016	6	1127	134	-3.9583385	-168.79166	['E0712']	-5746	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0555	2016	6	1134	134	-4.5416665	-168.79166	['E0711']	-5757	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0556	2016	6	1139	134	-4.9583383	-168.79166	['E0708']	-5481	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0557	2016	6	1146	134	-5.5416665	-168.79166	['E0704']	-5578	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0558	2016	6	1151	134	-5.9583383	-168.79166	['E0703']	-5726	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0559	2016	6	1158	135	-6.5416665	-168.70833	['E0702']	-5689	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0560	2016	6	1164	134	-7.0416665	-168.79166	['E0697']	-4383	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0561	2016	6	1169	134	-7.4583383	-168.79166	['E0695']	-5247	Trades	PEQD	Trades - Pacific Equatorial Divergence Province	South Pacific	South Pacific Ocean	61
+G0562	2016	6	1176	136	-8.041667	-168.625	['E0694']	-4891	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0563	2016	6	1181	134	-8.458339	-168.79166	['E0693']	-5130	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0564	2016	6	1187	133	-8.958339	-168.875	['E0678']	-4651	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0565	2016	6	1193	132	-9.458339	-168.95833	['E0667']	-5259	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0566	2016	6	1199	124	-9.958339	-169.625	['E0666']	-5271	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0567	2016	6	1205	120	-10.458339	-169.95833	['E0665']	-4805	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0568	2016	6	1211	120	-10.958339	-169.95833	['E0656']	-5159	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0569	2016	6	1217	120	-11.458339	-169.95833	['E0655']	-4998	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0570	2016	6	1223	119	-11.958339	-170.04166	['E0649']	-5083	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0571	2016	6	1229	120	-12.458339	-169.95833	['E0635']	-5023	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0572	2016	6	1235	120	-12.958339	-169.95833	['E0628']	-4970	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0573	2016	6	1242	119	-13.541667	-170.04166	['E0622']	-4824	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0574	2016	6	1245	120	-13.791667	-169.95833	['E0620']	-4362	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0575	2016	6	1247	120	-13.958339	-169.95833	['E0617']	-3448	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0576	2016	6	1251	120	-14.291667	-169.95833	['E0616']	-3427	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0577	2016	6	1255	120	-14.625003	-169.95833	['E0615']	-3430	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0578	2016	6	1260	120	-15.041667	-169.95833	['E0614']	-4939	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0579	2016	6	1265	119	-15.458339	-170.04166	['E0612']	-4954	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0580	2016	6	1272	119	-16.041666	-170.04166	['E0610']	-5205	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0581	2016	6	1278	119	-16.541666	-170.04166	['E0608']	-5084	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0582	2016	6	1284	119	-17.041666	-170.04166	['E0601']	-4826	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0583	2016	6	1289	119	-17.458338	-170.04166	['E0597']	-5042	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0584	2016	6	1295	119	-17.958338	-170.04166	['E0593']	-5211	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0585	2016	6	1302	119	-18.541666	-170.04166	['E0591']	-5321	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0586	2016	6	1308	119	-19.041666	-170.04166	['E0584']	-1859	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0587	2016	6	1309	3919	-19.125002	146.62502	['E0576']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0588	2016	6	1311	3931	-19.291666	147.62502	['E0561', 'E0562']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0589	2016	6	1313	119	-19.458338	-170.04166	['E0549']	-5019	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0590	2016	6	1319	119	-19.958338	-170.04166	['E0548']	-5262	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0591	2016	6	1326	120	-20.541666	-169.95833	['E0543']	-5558	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0592	2016	6	1331	120	-20.958338	-169.95833	['E0538']	-5537	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0593	2016	6	1338	120	-21.541666	-169.95833	['E0526']	-5486	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0594	2016	6	1344	120	-22.041666	-169.95833	['E0524']	-5507	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0595	2016	6	1349	119	-22.458338	-170.04166	['E0520']	-5667	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0596	2016	6	1355	119	-22.958338	-170.04166	['E0518']	-5653	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0597	2016	6	1367	119	-23.958338	-170.04166	['E0491']	-5744	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0598	2016	6	1373	119	-24.458338	-170.04166	['E0490']	-5606	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0599	2016	6	1379	119	-24.958338	-170.04166	['E0488']	-5531	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0600	2016	6	1385	119	-25.458338	-170.04166	['E0487']	-6199	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0601	2016	6	1391	120	-25.958338	-169.95833	['E0483']	-5466	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0602	2016	6	1397	120	-26.458338	-169.95833	['E0482']	-5563	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0603	2016	6	1407	120	-27.291666	-169.95833	['E0480']	-5390	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0604	2016	6	1422	120	-28.541666	-169.95833	['E0453']	-5348	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0605	2016	6	1427	120	-28.958338	-169.95833	['E0452']	-5496	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0606	2016	6	1433	120	-29.458338	-169.95833	['E0447']	-5199	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0607	2016	6	1439	120	-29.958338	-169.95833	['E0431']	-5510	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0608	2016	6	1446	120	-30.541666	-169.95833	['E0421']	-5596	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0609	2016	6	1452	120	-31.041666	-169.95833	['E0415']	-5462	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0610	2016	6	1457	120	-31.458338	-169.95833	['E0407']	-5498	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0611	2016	6	1463	3545	-31.958338	115.45835	['E0362']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0612	2016	6	1464	120	-32.041668	-169.95833	['E0350']	-5618	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0613	2016	6	1469	120	-32.45834	-169.95833	['E0332']	-5585	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0614	2016	6	1475	119	-32.95834	-170.04166	['E0317']	-5371	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0615	2016	6	1482	119	-33.541668	-170.04166	['E0310']	-5581	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0616	2016	6	1485	3975	-33.791668	151.29167	['E0293']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0617	2016	6	1486	3974	-33.875004	151.20836	['E0276', 'E0277', 'E0278']	46	NA	NA	NA	NA	NA	NA
+G0618	2016	6	1487	120	-33.95834	-169.95833	['E0273']	-5616	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0619	2016	6	1487	3974	-33.95834	151.20836	['E0259', 'E0260', 'E0261']	0	NA	NA	NA	NA	NA	NA
+G0620	2016	6	1488	3973	-34.041668	151.12502	['E0200', 'E0201', 'E0216']	29	NA	NA	NA	NA	NA	NA
+G0621	2016	6	1488	3974	-34.041668	151.20836	['E0233', 'E0234', 'E0235', 'E0236']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0622	2016	6	1494	119	-34.541668	-170.04166	['E0165']	-5357	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0623	2016	6	1500	120	-35.041668	-169.95833	['E0159']	-5230	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0624	2016	6	1504	119	-35.375004	-170.04166	['E0155']	-4542	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0625	2016	6	1508	119	-35.70834	-170.04166	['E0154']	-4107	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0626	2016	6	1512	120	-36.041668	-169.95833	['E0144']	-5050	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0627	2016	6	1517	116	-36.45834	-170.29166	['E0137']	-5072	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0628	2016	6	1522	112	-36.875004	-170.625	['E0135']	-5224	Westerlies	SPSG	Westerlies - S. Pacific Subtropical Gyre Province	South Pacific	South Pacific Ocean	61
+G0629	2016	7	1228	3729	-12.375003	130.79167	['E0642', 'E0643']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0630	2016	7	1462	3548	-31.875002	115.70835	['E0380']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0631	2016	7	1462	3549	-31.875002	115.791664	['E0393']	37	NA	NA	NA	NA	NA	NA
+G0632	2016	7	1485	3975	-33.791668	151.29167	['E0294']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0633	2016	7	1486	3974	-33.875004	151.20836	['E0279']	46	NA	NA	NA	NA	NA	NA
+G0634	2016	7	1487	3974	-33.95834	151.20836	['E0262']	0	NA	NA	NA	NA	NA	NA
+G0635	2016	7	1488	3973	-34.041668	151.12502	['E0202', 'E0217']	29	NA	NA	NA	NA	NA	NA
+G0636	2016	7	1488	3974	-34.041668	151.20836	['E0237']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0637	2016	7	1489	3974	-34.125004	151.20836	['E0191']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0638	2016	7	1591	3938	-42.62501	148.20836	['E0096', 'E0097']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0639	2016	8	1309	3919	-19.125002	146.62502	['E0577']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0640	2016	8	1485	3975	-33.791668	151.29167	['E0295']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0641	2016	8	1486	3974	-33.875004	151.20836	['E0280']	46	NA	NA	NA	NA	NA	NA
+G0642	2016	8	1487	3974	-33.95834	151.20836	['E0263']	0	NA	NA	NA	NA	NA	NA
+G0643	2016	8	1488	3973	-34.041668	151.12502	['E0203', 'E0218']	29	NA	NA	NA	NA	NA	NA
+G0644	2016	8	1488	3974	-34.041668	151.20836	['E0238']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0645	2016	8	1490	3990	-34.20834	152.54167	['E0170']	-4818	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0646	2016	8	1491	3987	-34.291668	152.29167	['E0168']	-4686	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0647	2016	8	1591	3938	-42.62501	148.20836	['E0098']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0648	2016	9	1311	3931	-19.291666	147.62502	['E0563']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0649	2016	9	1415	4005	-27.958338	153.79167	['E0459']	-107	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0650	2016	9	1416	4008	-28.041666	154.04167	['E0457']	-898	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0651	2016	9	1416	4020	-28.041666	155.04167	['E0458']	-4546	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0652	2016	9	1429	4013	-29.125002	154.45836	['E0450']	-4134	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0653	2016	9	1447	4003	-30.625002	153.62502	['E0419']	-4319	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0654	2016	9	1449	4001	-30.791666	153.45836	['E0417']	-3068	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0655	2016	9	1451	4000	-30.958338	153.37502	['E0416']	-1052	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0656	2016	9	1458	3999	-31.541666	153.29167	['E0406']	-1267	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0657	2016	9	1459	3999	-31.625002	153.29167	['E0404']	-1213	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0658	2016	9	1462	3548	-31.875002	115.70835	['E0381']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0659	2016	9	1462	3549	-31.875002	115.791664	['E0394']	37	NA	NA	NA	NA	NA	NA
+G0660	2016	9	1462	3999	-31.875002	153.29167	['E0402']	-2177	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0661	2016	9	1463	3999	-31.958338	153.29167	['E0374']	-2407	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0662	2016	9	1467	3994	-32.291668	152.87502	['E0346']	-131	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0663	2016	9	1469	3997	-32.45834	153.12502	['E0334']	-2592	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0664	2016	9	1469	4000	-32.45834	153.37502	['E0337']	-4232	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0665	2016	9	1469	4004	-32.45834	153.70836	['E0338']	-4898	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0666	2016	9	1469	4009	-32.45834	154.12502	['E0335']	-5132	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0667	2016	9	1469	4013	-32.45834	154.45836	['E0333']	-4900	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0668	2016	9	1470	3997	-32.541668	153.12502	['E0331']	-2347	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0669	2016	9	1471	3996	-32.625004	153.04167	['E0330']	-2479	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0670	2016	9	1473	3995	-32.791668	152.95836	['E0323']	-2365	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0671	2016	9	1476	3994	-33.041668	152.87502	['E0315', 'E0316']	-3408	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0672	2016	9	1480	3984	-33.375004	152.04167	['E0312']	-200	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0673	2016	9	1485	3975	-33.791668	151.29167	['E0296']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0674	2016	9	1486	3974	-33.875004	151.20836	['E0281']	46	NA	NA	NA	NA	NA	NA
+G0675	2016	9	1487	3974	-33.95834	151.20836	['E0264']	0	NA	NA	NA	NA	NA	NA
+G0676	2016	9	1488	3973	-34.041668	151.12502	['E0204', 'E0219']	29	NA	NA	NA	NA	NA	NA
+G0677	2016	9	1488	3974	-34.041668	151.20836	['E0239', 'E0240']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0678	2016	9	1489	3974	-34.125004	151.20836	['E0174']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0679	2016	9	1491	3984	-34.291668	152.04167	['E0167']	-4582	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0680	2016	9	1492	3981	-34.375004	151.79167	['E0166']	-2672	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0681	2016	9	1498	3976	-34.875004	151.37502	['E0163']	-1848	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0682	2016	9	1509	3797	-35.791668	136.45836	['E0150']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0683	2016	9	1514	3975	-36.20834	151.29167	['E0143']	-4607	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0684	2016	9	1514	3983	-36.20834	151.95836	['E0142']	-5036	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0685	2016	9	1515	3963	-36.291668	150.29167	['E0138', 'E0139']	-137	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0686	2016	9	1515	3999	-36.291668	153.29167	['E0141']	-4830	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0687	2016	9	1515	4010	-36.291668	154.20836	['E0140']	-4534	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0688	2016	9	1522	3990	-36.875004	152.54167	['E0134']	-4838	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0689	2016	9	1523	4006	-36.95834	153.87502	['E0133']	-4440	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0690	2016	9	1523	4007	-36.95834	153.95836	['E0132']	-4417	Westerlies	TASM	Westerlies - Tasman Sea Province	South Pacific	Tasman Sea	63
+G0691	2016	9	1591	3938	-42.62501	148.20836	['E0099']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0692	2017	1	1311	3931	-19.291666	147.62502	['E0567']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0693	2017	1	1463	3545	-31.958338	115.45835	['E0367']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0694	2017	1	1485	3975	-33.791668	151.29167	['E0300']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0695	2017	1	1486	3974	-33.875004	151.20836	['E0285']	46	NA	NA	NA	NA	NA	NA
+G0696	2017	1	1487	3974	-33.95834	151.20836	['E0268']	0	NA	NA	NA	NA	NA	NA
+G0697	2017	1	1488	3973	-34.041668	151.12502	['E0208', 'E0223']	29	NA	NA	NA	NA	NA	NA
+G0698	2017	1	1488	3974	-34.041668	151.20836	['E0247', 'E0248']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0699	2017	1	1591	3938	-42.62501	148.20836	['E0101']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0700	2017	1	1657	3882	-48.12501	143.54167	['E0064']	-4372	Westerlies	SANT	Westerlies - Subantarctic Province	Indian	Indian Ocean	45
+G0701	2017	1	1694	3846	-51.20834	140.54167	['E0060']	-3516	Westerlies	SANT	Westerlies - Subantarctic Province	Indian	Indian Ocean	45
+G0702	2017	1	1709	3831	-52.45834	139.29167	['E0057']	-3383	Westerlies	SANT	Westerlies - Subantarctic Province	Indian	Indian Ocean	45
+G0703	2017	1	1718	3822	-53.20834	138.54167	['E0056']	-3533	Westerlies	SANT	Westerlies - Subantarctic Province	Indian	Indian Ocean	45
+G0704	2017	1	1732	3806	-54.37501	137.20836	['E0051']	-3850	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0705	2017	1	1740	3798	-55.041668	136.54167	['E0049']	-3869	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0706	2017	1	1750	3785	-55.87501	135.45836	['E0046']	-3564	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0707	2017	1	1762	3769	-56.87501	134.12502	['E0044']	-4028	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0708	2017	1	1774	3753	-57.87501	132.79167	['E0039']	-4586	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0709	2017	1	1785	3736	-58.791668	131.37502	['E0037']	-4656	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0710	2017	1	1796	3719	-59.70834	129.95836	['E0034']	-4603	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0711	2017	1	1808	3698	-60.70834	128.20836	['E0031']	-4477	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0712	2017	1	1818	3678	-61.541668	126.541664	['E0028']	-4381	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0713	2017	1	1828	3660	-62.37501	125.041664	['E0023']	-4195	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0714	2017	1	1837	3639	-63.12501	123.291664	['E0020']	-3980	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0715	2017	1	1849	3610	-64.12501	120.87501	['E0012']	-3306	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0716	2017	2	1228	3729	-12.375003	130.79167	['E0645', 'E0646']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0717	2017	2	1309	3919	-19.125002	146.62502	['E0581']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0718	2017	2	1311	3931	-19.291666	147.62502	['E0568']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0719	2017	2	1408	4002	-27.375002	153.54167	['E0475']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0720	2017	2	1462	3548	-31.875002	115.70835	['E0384']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0721	2017	2	1462	3549	-31.875002	115.791664	['E0398']	37	NA	NA	NA	NA	NA	NA
+G0722	2017	2	1485	3975	-33.791668	151.29167	['E0301']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0723	2017	2	1486	3974	-33.875004	151.20836	['E0286']	46	NA	NA	NA	NA	NA	NA
+G0724	2017	2	1487	3974	-33.95834	151.20836	['E0269']	0	NA	NA	NA	NA	NA	NA
+G0725	2017	2	1488	3973	-34.041668	151.12502	['E0209', 'E0224']	29	NA	NA	NA	NA	NA	NA
+G0726	2017	2	1488	3974	-34.041668	151.20836	['E0249', 'E0250']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0727	2017	2	1489	3974	-34.125004	151.20836	['E0192']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0728	2017	2	1591	3938	-42.62501	148.20836	['E0102']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0729	2017	2	1742	3778	-55.20834	134.87502	['E0048']	-3800	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0730	2017	2	1776	3746	-58.041668	132.20836	['E0038']	-4629	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0731	2017	2	1789	3739	-59.12501	131.62502	['E0035']	-4635	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0732	2017	2	1799	3736	-59.95834	131.37502	['E0033']	-4649	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0733	2017	2	1838	3709	-63.20834	129.12502	['E0019']	-4225	Polar	ANTA	Polar - Antarctic Province	Southern	Southern Ocean	67
+G0734	2017	2	1854	3610	-64.541664	120.87501	['E0007']	-3222	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0735	2017	2	1856	3604	-64.708336	120.37501	['E0006']	-3192	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0736	2017	2	1859	3607	-64.958336	120.62501	['E0004']	-2698	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0737	2017	2	1859	3677	-64.958336	126.45835	['E0005']	-2792	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0738	2017	2	1864	3593	-65.37501	119.45835	['E0003']	-1053	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0739	2017	2	1865	3607	-65.458336	120.62501	['E0002']	-2370	Polar	APLR	Polar - Austral Polar Province	Southern	Southern Ocean	67
+G0740	2017	3	1309	3919	-19.125002	146.62502	['E0582']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0741	2017	3	1311	3931	-19.291666	147.62502	['E0569']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0742	2017	3	1462	3548	-31.875002	115.70835	['E0385']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0743	2017	3	1462	3549	-31.875002	115.791664	['E0399']	37	NA	NA	NA	NA	NA	NA
+G0744	2017	3	1463	3545	-31.958338	115.45835	['E0368', 'E0369']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0745	2017	3	1485	3975	-33.791668	151.29167	['E0302']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0746	2017	3	1486	3974	-33.875004	151.20836	['E0287']	46	NA	NA	NA	NA	NA	NA
+G0747	2017	3	1487	3974	-33.95834	151.20836	['E0270']	0	NA	NA	NA	NA	NA	NA
+G0748	2017	3	1488	3973	-34.041668	151.12502	['E0210', 'E0225']	29	NA	NA	NA	NA	NA	NA
+G0749	2017	3	1488	3974	-34.041668	151.20836	['E0251', 'E0252']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0750	2017	3	1489	3974	-34.125004	151.20836	['E0193']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0751	2017	3	1509	3797	-35.791668	136.45836	['E0152']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0752	2017	3	1591	3938	-42.62501	148.20836	['E0103']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0753	2017	3	1705	3832	-52.12501	139.37502	['E0058']	-1957	Westerlies	SANT	Westerlies - Subantarctic Province	Indian	Indian Ocean	45
+G0754	2017	3	1726	3793	-53.87501	136.12502	['E0054']	-3924	Polar	ANTA	Polar - Antarctic Province	Indian	Indian Ocean	45
+G0755	2017	4	1311	3931	-19.291666	147.62502	['E0570']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0756	2017	4	1408	4002	-27.375002	153.54167	['E0476']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0757	2017	4	1462	3548	-31.875002	115.70835	['E0386']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0758	2017	4	1462	3549	-31.875002	115.791664	['E0400']	37	NA	NA	NA	NA	NA	NA
+G0759	2017	4	1463	3545	-31.958338	115.45835	['E0370', 'E0371']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0760	2017	4	1485	3975	-33.791668	151.29167	['E0303']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0761	2017	4	1486	3974	-33.875004	151.20836	['E0288']	46	NA	NA	NA	NA	NA	NA
+G0762	2017	4	1487	3974	-33.95834	151.20836	['E0271']	0	NA	NA	NA	NA	NA	NA
+G0763	2017	4	1488	3973	-34.041668	151.12502	['E0211', 'E0226']	29	NA	NA	NA	NA	NA	NA
+G0764	2017	4	1488	3974	-34.041668	151.20836	['E0253', 'E0254']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0765	2017	4	1489	3974	-34.125004	151.20836	['E0194']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0766	2017	4	1591	3938	-42.62501	148.20836	['E0104']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0767	2017	5	1228	3729	-12.375003	130.79167	['E0647']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0768	2017	5	1302	3917	-18.541666	146.45836	['E0590']	-10	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0769	2017	5	1303	3917	-18.625002	146.45836	['E0587']	-5	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0770	2017	5	1408	4002	-27.375002	153.54167	['E0477']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0771	2017	5	1462	3548	-31.875002	115.70835	['E0387']	-7	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0772	2017	5	1462	3549	-31.875002	115.791664	['E0401']	37	NA	NA	NA	NA	NA	NA
+G0773	2017	5	1463	3545	-31.958338	115.45835	['E0372']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0774	2017	5	1485	3975	-33.791668	151.29167	['E0304']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0775	2017	5	1486	3974	-33.875004	151.20836	['E0289']	46	NA	NA	NA	NA	NA	NA
+G0776	2017	5	1488	3973	-34.041668	151.12502	['E0212', 'E0227']	29	NA	NA	NA	NA	NA	NA
+G0777	2017	5	1488	3974	-34.041668	151.20836	['E0255']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0778	2017	5	1489	3974	-34.125004	151.20836	['E0195']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0779	2017	5	1509	3797	-35.791668	136.45836	['E0153']	-59	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	Indian	Great Australian Bight	62
+G0780	2017	6	1408	4002	-27.375002	153.54167	['E0478']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0781	2017	6	1463	3545	-31.958338	115.45835	['E0373']	-19	Coastal	AUSW	Coastal - Australia-Indonesia Coastal Province	Indian	Indian Ocean	45
+G0782	2017	6	1485	3975	-33.791668	151.29167	['E0305']	34	NA	NA	NA	South Pacific	Tasman Sea	63
+G0783	2017	6	1486	3974	-33.875004	151.20836	['E0290']	46	NA	NA	NA	NA	NA	NA
+G0784	2017	6	1487	3974	-33.95834	151.20836	['E0272']	0	NA	NA	NA	NA	NA	NA
+G0785	2017	6	1488	3973	-34.041668	151.12502	['E0213', 'E0228']	29	NA	NA	NA	NA	NA	NA
+G0786	2017	6	1488	3974	-34.041668	151.20836	['E0256']	-20	Coastal	AUSE	Coastal - East Australian Coastal Province	NA	NA	NA
+G0787	2017	6	1489	3974	-34.125004	151.20836	['E0196']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0788	2017	6	1591	3938	-42.62501	148.20836	['E0105', 'E0106']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
+G0789	2017	7	1228	3729	-12.375003	130.79167	['E0648']	-4	Coastal	SUND	Coastal - Sunda-Arafura Shelves Province	Indian	Timor Sea	48i
+G0790	2017	7	1311	3931	-19.291666	147.62502	['E0571', 'E0572']	-22	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0791	2017	7	1408	4002	-27.375002	153.54167	['E0479']	-9	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Coral Sea	64
+G0792	2017	7	1489	3974	-34.125004	151.20836	['E0197']	-118	Coastal	AUSE	Coastal - East Australian Coastal Province	South Pacific	Tasman Sea	63
+G0793	2017	8	1591	3938	-42.62501	148.20836	['E0107']	-83	Westerlies	SSTC	Westerlies - S. Subtropical Convergence Province	South Pacific	Tasman Sea	63
