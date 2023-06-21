@@ -37,7 +37,7 @@ Scripts for analyses are in the directory `analysis`.
 
 Scripts for visualization are in the directory `visualization`.
 
-Notes: Shell scripts (.sh) are mainly used for executig subscripts (Python, R and Julia). Please execute commands in shell scripts stepwize because they are not optimized for sequencial execution.
+Notes: You can follow the analysis flow by reading shell scripts (.sh). Please execute commands in shell scripts stepwize because they are not optimized for sequencial execution.
 
 ## Contact
  - Hiroto Kaneko - kanekochem1994[@]icloud.com
