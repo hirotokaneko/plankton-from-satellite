@@ -18,7 +18,7 @@ tpr2 = "" if TPR == "keep" else "thinned{}.".format(TPR)
 subdirec = "{}.{}{}frq{}".format(SIZ,opo2,tpr2,FRQ)
 
 #Read the grid data
-DFg = pd.read_csv("../data/eukbank_satellite_grid.tsv", delimiter="\t", index_col=0)
+DFg = pd.read_csv("../input/eukbank_satellite_grid.elev.prov.tsv", delimiter="\t", index_col=0)
 
 #Read the clr-sigmoid transformed frequency table
 DFs = pd.read_csv("../data/{}/asv.{}.filt.dd.grid.sat.{}{}frq{}.fz_nz.sigmoid.tsv".format(subdirec,SIZ,opo2,tpr2,FRQ,NRM), delimiter="\t", index_col=0)

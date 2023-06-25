@@ -2,6 +2,11 @@
 Scripts for constructing a machine learning model for the satellite-based prediction of the plankton community distributions.  
 Plankton community types were identified from a inferred ecological network of plankton OTUs using a global metabarcoding dataset.
 
+## Prerequisites
+  * python (v3.8.7) - numpy (v1.19.4), pandas (v1.2.0), pyproj (v3.3.0), networkx (v2.5), scipy (v1.6.0), scikit-learn (v0.24.0), seaborn (v0.11.2), matplotlib (v3.5.1), geopandas (v0.10.2), shapely (v1.8.0), python-pptx (v0.6.21), pymannkendall (v1.4.2)
+  * julia (v1.6.2) - FlashWeave (v0.18.0)
+  * R (v3.6.1) - igraph (v1.2.11)
+
 ## Input files
 Input files are in the directory `input`.
   * `asv.full.filt.dd.grid.sat.open.thinned200.frq20.tsv`: prepared metabarcoding data.

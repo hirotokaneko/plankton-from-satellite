@@ -35,6 +35,7 @@ vert_ids <- V(go)[components$membership == biggest_comp_id]
 g <-igraph::induced_subgraph(go, vert_ids)
 
 print("Detect community") #---------------------------------------
+RNGkind(sample.kind = "Rounding")
 
 print("Greedy algorithm")
 imc <- cluster_fast_greedy(g)

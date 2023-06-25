@@ -9,3 +9,4 @@
 ##$6=ROW: read or write (for V311)
 
 #./V310_SeeNetworkMid.sh full open 200 20 fz write
+

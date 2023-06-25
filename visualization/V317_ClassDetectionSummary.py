@@ -24,7 +24,7 @@ blank_slide_layout = prs.slide_layouts[6]
 font = "Helvetica"
 
 #Read modularity data
-with open("../data/{}/modularity.{}.{}.{}.{}.{}.txt".format(subdirec,SIZ,opo2,tpr2,FRQ,NRM)) as f:
+with open("../data/{}/modularity.{}.{}{}frq{}.{}.txt".format(subdirec,SIZ,opo2,tpr2,FRQ,NRM)) as f:
 	listModulariity = []
 	gate = "closed"
 	for line in f:

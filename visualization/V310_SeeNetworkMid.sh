@@ -3,7 +3,6 @@
 opo2=`[ $2 = "all" ] && echo "" || echo "$2."`
 tpr2=`[ $3 = "keep" ] && echo "" || echo "thinned$3."`
 #mkdir ../figures/$1.${opo2}${tpr2}frq$4
-#mkdir ../data/$1.${opo2}${tpr2}frq$4
 
 #python V313_VisualizeNetwork.py $1 $2 $3 $4 $5
 

@@ -63,7 +63,7 @@ DFedges.columns = ["nodeA", "nodeB", "correlation"]
 DFcom = pd.read_csv("../data/{}/community.{}.{}{}frq{}.{}.tsv".format(subdirec,SIZ,opo2,tpr2,FRQ,NRM), delimiter="\t", index_col=0)
 
 #Read the list of ASV taxonomies
-DFtaxo = pd.read_csv("../data/{}/eukbank_18SV4_asv.taxo.extracted".format(subdirec), delimiter="\t", index_col=0)
+DFtaxo = pd.read_csv("../input/eukbank_18SV4_asv.taxo.extracted", delimiter="\t", index_col=0)
 
 #----------------------
 
