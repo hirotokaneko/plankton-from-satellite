@@ -6,6 +6,8 @@ tpr2=`[ $3 = "keep" ] && echo "" || echo "thinned$3."`
 s="$1.${opo2}${tpr2}frq$4"
 feat_sel=('space' 'product' 'rrs' 'satellite' 'allfeat' 'sst' 'chl' 'par' 'duo' 'trio')
 
+#python ../scripts/218_CalcGridDistance.py
+
 ##------------------------------------
 #mkdir $s/cv
 

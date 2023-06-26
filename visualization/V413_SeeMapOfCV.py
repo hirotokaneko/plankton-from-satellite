@@ -17,7 +17,7 @@ CTF = sys.argv[8]
 #Get the world map
 countries = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
 #Read the list of grids
-DFg = pd.read_csv("../data/eukbank_satellite_grid.tsv", delimiter="\t", index_col=0)
+DFg = pd.read_csv("../input/eukbank_satellite_grid.elev.prov.tsv", delimiter="\t", index_col=0)
 
 #Set file name variables
 opo2 = "" if OPO == "all" else "{}.".format(OPO)

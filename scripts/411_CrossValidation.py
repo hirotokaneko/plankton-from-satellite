@@ -47,7 +47,7 @@ DFc = pd.read_csv("{}/edge.satisfaction.{}.{}{}frq{}.{}.{}.tsv".format(subdirec,
 print("#samples: {}".format(DFc.shape[0]))
 
 #Load grid distance
-DFd = pd.read_csv("../input/eukbank_grid_distance.tsv", delimiter="\t", index_col=0)
+DFd = pd.read_csv("../data/eukbank_grid_distance.tsv", delimiter="\t", index_col=0)
 
 #Get feature matrix
 X = DFs.loc[DFc.index,dico_feat_sel[FTS]].values

@@ -11,8 +11,6 @@
 ##$9=LIM: limit of iteration
 ##$10=RAD: radius for spatial cv
 
-#python 218_CalcGridDistance.py
-
 #./410_MachineLearningMid.sh full open 200 20 fz leiden NB 8 _ 0
 #./410_MachineLearningMid.sh full open 200 20 fz leiden KNN 8 _ 0
 #./410_MachineLearningMid.sh full open 200 20 fz leiden SVM 8 _ 0
