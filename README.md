@@ -12,9 +12,10 @@ Input files are in the directory `input`.
   * `asv.full.filt.dd.grid.sat.open.thinned200.frq20.tsv`: prepared metabarcoding data.
   * `eukbank_18SV4_asv.taxo.extracted`: taxonomic annotation of metabarcodes.
   * `eukbank_imputed_satellite_data.tsv`: prepared satellite data corresponded to sampling sites and times.
+  * `eukbank_imputed_satellite_data.tsv/global` contains prepared satellite data (global and monthly) of 2021. Visit https://www.genome.jp/ftp/db/community/tara/Satellite/Data_and_Codes/01_DataProcessing/data/global/ for satellite data of 2003-2020.
   * other input files
 
-Visit https://www.genome.jp/ftp/db/community/tara/Satellite/ for scripts used for generating input data.
+Visit https://www.genome.jp/ftp/db/community/tara/Satellite/Data_and_Codes/01_DataProcessing/ for scripts used for generating input data.
 
 ## Scripts
 Scripts for analyses are in the directory `scripts`.
