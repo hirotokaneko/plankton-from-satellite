@@ -26,8 +26,8 @@ countries = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
 DFg = pd.read_csv("../input/global/global_imputed_satellite_data.2021.1.tsv", delimiter="\t", index_col=0).iloc[:,-2:]
 
 #List of years and months
-#years = [2021] #for test
-years = np.arange(2003,2022)
+years = [2021] #for test
+#years = np.arange(2003,2022)
 months = np.arange(1,13)
 
 #Loop by years and months

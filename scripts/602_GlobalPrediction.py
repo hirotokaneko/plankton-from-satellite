@@ -62,7 +62,7 @@ print("Train Accuracy: {0:.3f}".format(clr.score(X, y)))
 
 #Range of years and months
 #years = np.arange(2003,2022)
-years = [2021]
+years = [2021] #For test
 months = np.arange(1,13)
 
 for year, month in itertools.product(years, months):

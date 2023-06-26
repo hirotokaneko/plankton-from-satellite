@@ -35,22 +35,28 @@ for i, col in enumerate(DFarea.columns[:-1]):
 	#Convert area into relative to total
 	array_frac = dico_real_area[BIM]*(DFarea[col]/DFarea["TotArea"]).values
 	array_frac_mean = dico_real_area[BIM]*(DFarea_mean[col]/DFarea_mean["TotArea"]).values
+
 	#Trend test
-	result = mk.seasonal_test(array_frac, period=12)
+	result = mk.seasonal_test(array_frac, period=1) #for test
+	#result = mk.seasonal_test(array_frac, period=12)
 
 	#Set position of timepoints
 	array_timepoints = np.arange(DFarea.shape[0])
 	#Bar plot for area of each month and line plot for moving average
 	ax.bar(array_timepoints, array_frac, width=1.0, color="grey")
 	ax.plot(array_timepoints, array_frac_mean, zorder=1, color="orange", linewidth="2")
+
 	#Set tick and label of timepoints
 	ax.tick_params(labelsize=14)
-	ax.set_xticks([i for i in array_timepoints if i%12==6])
-	ax.set_xticklabels(np.arange(2003,2022), rotation=90)
+	ax.set_xticks(array_timepoints) #for test
+	ax.set_xticklabels(np.arange(1,13)) #for test
+	#ax.set_xticks([i for i in array_timepoints if i%12==6])
+	#ax.set_xticklabels(np.arange(2003,2022), rotation=90)
+
 	#Show trend test results
 	ax.text(0.01, 0.99,
-	 		"{0} (p = {1:.2g})\nSlope = {2:.3f} /year".format(result.trend, result.p, result.slope),
-			verticalalignment="top", transform=ax.transAxes, fontsize=14)
+	 	"{0} (p = {1:.2g})\nSlope = {2:.3f} /year".format(result.trend, result.p, result.slope),
+		verticalalignment="top", transform=ax.transAxes, fontsize=14)
 
 	#Set title
 	if col == "NoPrediction":
@@ -65,3 +71,4 @@ for i, col in enumerate(DFarea.columns[:-1]):
 fig.tight_layout()
 fig.savefig("../figures/{}/explore/V603.prediction.area.{}.png".format(subdirec,BIM), format="png")
 plt.close(fig)
+

@@ -17,18 +17,24 @@ for i, biome in enumerate(biomes):
 	
 	#Set subplot
 	ax = axes[i]
+
 	#Trend test
-	result = mk.seasonal_test(DFavetemp[biome], period=12)
+	result = mk.seasonal_test(DFavetemp[biome], period=1) #for test
+	#result = mk.seasonal_test(DFavetemp[biome], period=12)
 
 	#Set position of timepoints
 	array_timepoints = np.arange(DFavetemp.shape[0])
 	#Bar plot for area of each month and line plot for moving average
 	ax.bar(array_timepoints, DFavetemp[biome], width=1.0, color="grey")
 	ax.plot(array_timepoints, DFavetemp_mean[biome], zorder=1, color="orange", linewidth="2")
+
 	#Set tick and label of timepoints
 	ax.tick_params(labelsize=14)
-	ax.set_xticks([i for i in array_timepoints if i%12==6])
-	ax.set_xticklabels(np.arange(2003,2022), rotation=90)
+	ax.set_xticks(array_timepoints) #for test
+	ax.set_xticklabels(np.arange(1,13)) #for test
+	#ax.set_xticks([i for i in array_timepoints if i%12==6])
+	#ax.set_xticklabels(np.arange(2003,2022), rotation=90)
+
 	#Set limits of y axis
 	ymin = DFavetemp[biome].min()
 	ymax = DFavetemp[biome].max()
