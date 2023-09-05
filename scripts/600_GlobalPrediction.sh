@@ -11,3 +11,4 @@ cd ../data
 
 #python ../scripts/605_CalcAverageTemperature.py
 
+#python ../scripts/606_ConvertOutputIntoNetCDF.py full open 200 20
