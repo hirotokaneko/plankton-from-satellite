@@ -32,8 +32,10 @@ Notes: You can follow the analysis flow by reading shell scripts (.sh). Please e
 ## Output files
 Output data files will be generated in the directory `data` and figures will be generated in the directory `figure`.
 
+Visit https://www.genome.jp/ftp/db/community/tara/Satellite/Output_NetCDF/ for NetCDF files of 19-year (2003-2021) time series of community type distribution predicted from satellite data.
+
 ## Contact
  - Hiroto Kaneko - kanekochem1994[@]icloud.com
 
 ## References
-Hiroto Kaneko, Hisashi Endo, Nicolas Henry, Cédric Berney, Frédéric Mahé, Julie Poulain, Karine Labadie, Odette Beluche, Roy El Hourany, et al. 2022. Global observation of plankton communities from space. bioRxiv. https://www.biorxiv.org/content/10.1101/2022.09.23.508961v1
+Kaneko H, Endo H, Henry N, Berney C, Mahé F, Poulain J, et al. Predicting global distributions of eukaryotic plankton communities from satellite data. ISME commun. 2023; 3:101. https://doi.org/10.1038/s43705-023-00308-7
